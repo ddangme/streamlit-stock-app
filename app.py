@@ -11,7 +11,7 @@ import ta
 
 # 페이지 설정
 st.set_page_config(
-    page_title="📈 AI 주식 예측기",
+    page_title="AI 주식 예측기",
     page_icon="📈",
     layout="wide"
 )
